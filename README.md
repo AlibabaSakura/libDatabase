@@ -73,7 +73,7 @@ $result = $my_handler->query($sql);
 
 #### Pro tip
 
-You can obmit the configuration array. It will make the database writeable as default.
+You can omit the configuration array. It will make the database writeable as default.
 
 ```php
 <?php
